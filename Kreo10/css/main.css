@@ -18,7 +18,8 @@
 /*  11. =testimonials
 /*  12. =contact
 /*  13. =footer
-/*
+/*  14. =sponsors
+/*  
 /* =================================================================== */
 
 /** 
@@ -2612,4 +2613,19 @@ footer .social-links li:first-child {
 	margin-left: 6px;
 	position: relative;
 	right: -5px;
+}
+/*
+------------------------- Sponsors -------------------------
+*/
+.sponsors {
+	padding-top: 30px;
+	
+}
+.sponsors .sponsors-tile{ 
+	text-align: center;
+}
+.sponsors .sponsors-tile img{
+	height: 150px;
+	width: 150px;
+	margin: 30px 20px;
 }
